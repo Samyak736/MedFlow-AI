@@ -1,0 +1,5 @@
+{
+  "name": "MedFlow AI",
+  "description": "A real-time clinical synchronization platform bridging Junior Residents and Senior Doctors with Gemini-powered medico-legal reporting and decision support.",
+  "requestFramePermissions": []
+}
